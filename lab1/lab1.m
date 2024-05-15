@@ -30,7 +30,7 @@ class(image3)
 class(image4)
 
 % Шлях для збереження
-save_path = 'D:\DZ\magistr\s2\image\lab1\SavedImages\';
+save_path = 'C:\Users\vladr\OneDrive\Рабочий стол\Uni\Прикладна обробка сигналів\lab1\SavedImages\';
 
 % Збереження зображень
 
