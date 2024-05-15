@@ -1,5 +1,5 @@
 % Завантаження зображень
-img_path = 'D:\DZ\magistr\s2\image\lab1\'
+img_path = 'C:\Users\vladr\OneDrive\Рабочий стол\Uni\Прикладна обробка сигналів\lab1\'
 image1 = imread('image1.png');
 image2 = imread('image2.jpg');
 image3 = imread('image3.png');
@@ -12,7 +12,7 @@ title('image2_original');
 figure, imshow(image3);
 title('image3_original');
 % Завантаження зображення з вказаним шляхом
-path = 'D:\DZ\magistr\s2\image\lab1\image4.png';
+path = 'C:\Users\vladr\OneDrive\Рабочий стол\Uni\Прикладна обробка сигналів\lab1\image4.png';
 image4 = imread(path);
 imshow(image4);
 title('image4_original');
